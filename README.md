@@ -15,3 +15,6 @@
 ```python
 s = "Python Syntax Highlighting"
 print(s)
+
+var s = "JavaScript syntax highlighting";
+alert(s);
