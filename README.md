@@ -8,3 +8,6 @@
 🥰
 
 ![tree](tree.jpg "tree")
+
+- [ ] todo list
+- [x] done 
