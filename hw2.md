@@ -1,6 +1,6 @@
 ## Homework2_20221003
 
-```
+```graphviz
 digraph {
   node[shape=record]
   rankdir="LR"
