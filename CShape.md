@@ -1,4 +1,4 @@
-## CShape.java
+### CShape.java
 
 ```cshape
 abstract class CShape{
@@ -11,7 +11,7 @@ abstract class CShape{
 }
 ```
 
-## CTriangle.java
+### CTriangle.java
 
 ```ctriangle
 class CTriangle extends CShape{
@@ -28,5 +28,17 @@ class CTriangle extends CShape{
         System.out.print("area="+0.5*ca*cb);
     }
    
+}
+```
+
+### app11.java
+
+```
+public class app11 {
+   public static void main(String[] args) {
+    CTriangle ct = new CTriangle(3, 4, 5);
+    ct.setColor("red");
+    ct.show();
+}
 }
 ```
